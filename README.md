@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayodimeji Kadri</h1>
 <h3 align="center">A passionate web & software developer from Nigeria</h3>
-
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
 <p align="left"> <a href="https://twitter.com/ayodiimeji" target="blank"><img src="https://img.shields.io/twitter/follow/ayodiimeji?logo=twitter&style=for-the-badge" alt="ayodiimeji" /></a> </p>
 
 - 👯 I’m looking to collaborate on **projects**
@@ -14,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/ayodiimeji" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayodiimeji" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/ayodimeji-kadri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayodimeji-kadri" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayodimeji-kadri-43961b116/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayodimeji-kadri-43961b116/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
