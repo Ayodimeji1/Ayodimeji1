@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Ayodimeji Kadri</h1>
-<h3 align="center">A passionate web & software developer from Nigeria</h3>
+<h1 align="center">Hi 👋, I'm Ayo Kadri</h1>
+<h3 align="center">A passionate web & software developer</h3>
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <a href="https://twitter.com/ayodiimeji" target="blank"><img src="https://img.shields.io/twitter/follow/ayodiimeji?logo=twitter&style=for-the-badge" alt="ayodiimeji" /></a> </p>
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **software development, web applications**
+- 💬 Ask me about **software development, Web applications**
 
 - 📫 How to reach me **ayodimejia1@gmail.com**
 
