@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **projects**
 
-- 💬 Ask me about **software development, Web applications**
+- 💬 Ask me about **Artificial Intelligence, Machine Learning, Software Engineering**
 
 - 📫 How to reach me **ayodimejia1@gmail.com**
 
