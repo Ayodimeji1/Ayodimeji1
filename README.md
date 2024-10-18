@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayo Kadri</h1>
-<h3 align="center">A passionate web & software developer</h3>
+<h3 align="center">Machine Learning Engineer, Software Engineer</h3>
 <img align="right" alt="coding" width="450" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 <p align="left"> <a href="https://twitter.com/ayodiimeji" target="blank"><img src="https://img.shields.io/twitter/follow/ayodiimeji?logo=twitter&style=for-the-badge" alt="ayodiimeji" /></a> </p>
 
